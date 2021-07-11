@@ -1,5 +1,5 @@
 ## 嘿！欢迎来到我的官网
-下载地址（Download）：https://github.com/SillyMizuhara/Bright-North-Launcher/releases/tag/1.01
+下载地址（Download）：https://github.com/SillyMizuhara/Bright-North-Launcher/releases/tag/
 
 Q:如何调整语言？
 
