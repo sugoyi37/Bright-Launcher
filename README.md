@@ -1,3 +1,3 @@
-# Bright-North-Launcher
-Bright North Launcher
+# Bright Launcher
+Bright Launcher
 Command is a terminal software platform made by C + +
