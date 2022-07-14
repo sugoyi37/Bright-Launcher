@@ -1,0 +1,51 @@
+[0710/164550.993:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000218
+[0710/164550.993:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000218
+[0710/164550.993:ERROR:zip.cc(179)] Cannot open 'C:\Users\sugoy\Documents\Bright Project\Bright East\Bright Launcher\package.nw': FILE_ERROR_NOT_FOUND: 系统找不到指定的文件。 (0x2)
+[0710/164744.169:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000200
+[0710/164744.169:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000200
+[0710/164827.013:ERROR:registration_protocol_win.cc(107)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0710/164830.896:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000210
+[0710/164830.897:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000210
+[0710/164906.313:ERROR:registration_protocol_win.cc(107)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0710/164910.253:ERROR:registration_protocol_win.cc(107)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0710/164914.814:ERROR:registration_protocol_win.cc(107)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0710/164929.049:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000208
+[0710/164929.049:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000208
+[0710/165018.375:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000208
+[0710/165018.377:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000208
+[0710/165018.378:ERROR:zip.cc(179)] Cannot open 'C:\Users\sugoy\Documents\Bright Project\Bright East\Bright Launcher\package.nw': FILE_ERROR_NOT_FOUND: 系统找不到指定的文件。 (0x2)
+[0710/165023.707:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 000000000000020C
+[0710/165023.709:ERROR:zip.cc(202)] Cannot open ZIP from file handle 000000000000020C
+[0710/165023.709:ERROR:zip.cc(179)] Cannot open 'C:\Users\sugoy\Documents\Bright Project\Bright East\Bright Launcher\package.nw': FILE_ERROR_NOT_FOUND: 系统找不到指定的文件。 (0x2)
+[0710/165144.544:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000200
+[0710/165144.544:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000200
+[0710/165338.371:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000200
+[0710/165338.371:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000200
+[0710/165416.937:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000208
+[0710/165416.937:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000208
+[0710/170753.437:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000200
+[0710/170753.438:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000200
+[0710/172636.587:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000208
+[0710/172636.587:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000208
+[0710/172821.298:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000200
+[0710/172821.298:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000200
+[0710/184329.213:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 000000000000021C
+[0710/184329.213:ERROR:zip.cc(202)] Cannot open ZIP from file handle 000000000000021C
+[0710/185037.139:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000210
+[0710/185037.139:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000210
+[0710/185131.082:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000210
+[0710/185131.082:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000210
+[0710/185145.187:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 00000000000001F4
+[0710/185145.187:ERROR:zip.cc(202)] Cannot open ZIP from file handle 00000000000001F4
+[0710/185223.821:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000210
+[0710/185223.821:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000210
+[0710/185407.408:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000210
+[0710/185407.408:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000210
+[0710/185418.727:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 000000000000021C
+[0710/185418.727:ERROR:zip.cc(202)] Cannot open ZIP from file handle 000000000000021C
+[0710/192822.559:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000210
+[0710/192822.559:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000210
+[0711/230524.956:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 00000000000001AC
+[0711/230524.957:ERROR:zip.cc(202)] Cannot open ZIP from file handle 00000000000001AC
+[0713/222403.411:ERROR:zip_reader.cc(153)] Cannot open ZIP from file handle 0000000000000220
+[0713/222403.412:ERROR:zip.cc(202)] Cannot open ZIP from file handle 0000000000000220
